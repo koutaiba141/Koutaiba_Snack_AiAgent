@@ -2,12 +2,6 @@
 
 This project is an AI-powered agent that uses a local Llama3 model and a FastAPI backend to interact with a Supabase database.
 
-## ⚠️ Security Warning
-
-This project contains sensitive information in the `.env` file. This file is included in the `.gitignore` file, but you should ensure that you have not accidentally committed this file to a public repository.
-
-**Do not share this project on GitHub without first removing the sensitive information from the `.env` file and ensuring it has not been committed to your git history.**
-
 ## Architecture
 
 The project is composed of the following components:
