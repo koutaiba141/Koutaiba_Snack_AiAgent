@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configuration
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# User-specified files
+api/mcp_server.py
+api/test_all_apis.py
+api/test_api.py
+api/test_mcp.py
+api/changes.md

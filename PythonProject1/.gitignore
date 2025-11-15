@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE configuration files
+.idea/
+*.swp
+*.swo
+
+# User-generated analysis files
+edits/
+suggestion.txt
+summary/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
